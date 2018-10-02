@@ -1,0 +1,1 @@
+- Cloned project and familiarized myself with the code
